@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.donationadmin.app-mergeDebugResources-32:/layout/adddriver.xml",
+        "source": "com.example.donationadmin.app-main-35:/layout/adddriver.xml"
+    },
+    {
+        "merged": "com.example.donationadmin.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.donationadmin.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dinus\\.gradle\\daemon\\7.5\\com.example.donationadmin.app-mergeDebugResources-32:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dinus\\.gradle\\daemon\\7.5\\com.example.donationadmin.app-main-35:\\layout\\activity_main.xml"
+    }
+]
